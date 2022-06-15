@@ -1,0 +1,81 @@
+Exercice 1 quizz A
+A.1 : LAN
+A.2 : CAN
+A.4 : SAN
+A.5 : PAN
+A.6 : topologie maillée
+A.7 : en étoile
+A.8 : paire torsadée
+A.9 : MAN
+A.10 : terabits/s
+
+quizz B
+B.1 : étendu
+B.2 : est à l'usage exclusif de l'entreprise
+B.3 : permet d'offrir des services bancaires aux établissements financiers
+B.4 : "tunnel"
+B.5 : les informations circulent dans un seul sens
+B.6 : en trois grand niveaux
+B.7 : de plusieurs Terabits seconde
+B.8 : cœur et collecte
+B.9 : n'existe pratiquement pas sur la partie accès
+B.10 : très haut débit et qualité de service
+
+quizz C
+C.1 : capture des informations
+C.2 : éliminier si possible le maximum de redondances
+C.3 : de permettre la correspond...
+C.4 : ETCD ou modem
+C.5 : l'alphabet
+C.6 : bits/s
+C.7 : 230 000km/s
+C.8 : dépend surtout du temps de traitement des équipements traversés
+C.9 : moins de 150ms
+C.10 : est transporté sur le canal radio attribué au mobile (émission ou réception)
+
+quizz D
+D.1 : codage complexe
+D.2 : existe en 7 et 8 bits
+D.3 : compatible avec ASCII
+D.4 : se base sur la fréquence
+D.5 : compression des données
+D.6 : l'énergie du signal de la parole
+D.7 : commence par la quantification
+D.8 : peut être de 44,1 KHz
+D.9 : l'unicité du décodage
+D.10 : dans des réseaux fixes
+
+quizz E
+E.1 : 5, 6, 7
+E.2 : 1, 2, 3,
+E.3 : routage
+E.4 : 7 et 4
+E.5 : aucun
+E.6 : Application
+E.7 : Transport
+E.8 : une structure de données échangées entre couches paires
+E.9 : Application
+E.10 : TCP
+
+quizz F
+F.1 : commutateurs ou routeurs
+F.2 : n'utilisent pas le même niveau de couche dans les protocoles de communication
+F.3 : couche 2
+F.4 : à la réservation (et à l'affectation) de ressources pour une seule communication
+F.5 : au transport de données sans négociation ni réservation de ressources dans un réseau
+F.6 : la non optimisation des ressources du réseau
+F.7 : la perte possible de paquets ou leur dé-séquencement
+F.8 : correspond au routage, en mode non connecté, sur IP
+F.9 : paquets
+F.10 : dynamique
+
+
+
+
+projet 2 :
+controller python soit pox soit ryu
+
+projets autour du développement d'algorithmes/applications de routage (dans les réseaus futurs SDN)
+
+network slicing
+load balancing ?
